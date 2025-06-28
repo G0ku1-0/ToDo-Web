@@ -29,7 +29,7 @@ Check it out live: [https://g0ku1-0.github.io/ToDo-Web/]
 
 2. Open index.html in your browser.
 
-3. Start adding and completing tasks like a productivity boss.
+3. Start adding and completing tasks.
 
 ---
 
