@@ -1,6 +1,6 @@
 📝 To-Do List Web App
 
-A modern, animated To-Do List web app with task filters, smooth transitions, swipe-to-delete on mobile, and persistent tasks with localStorage — all built with HTML, CSS, and modular JavaScript (ES6 modules). Made with ❤️ by G0ku1-0.
+A modern, animated To-Do List web app with task filters, smooth transitions, swipe-to-delete on mobile, and persistent tasks with localStorage — all built with HTML, CSS, and modular JavaScript (ES6 modules). Made by G0ku1-0.
 
 ---
 
@@ -18,15 +18,14 @@ A modern, animated To-Do List web app with task filters, smooth transitions, swi
 ---
 
 📸 Demo
-Check it out live: https://your-username.github.io/your-repo/
-*(Replace this with your actual GitHub Pages link once you deploy!)*
+Check it out live: [https://g0ku1-0.github.io/ToDo-Web/]
 
 ---
 
 🛠️ How to Run Locally
 1. Clone this repository:
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/G0ku1-0/ToDo-Web.git
+   cd ToDo-Web
 
 2. Open index.html in your browser.
 
