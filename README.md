@@ -1,4 +1,4 @@
-'''
+```
 📝 To-Do List Web App
 
 A modern, animated To-Do List web app with task filters, smooth transitions, swipe-to-delete on mobile, and persistent tasks with localStorage — all built with HTML, CSS, and modular JavaScript (ES6 modules). Made by G0ku1-0.
@@ -50,4 +50,4 @@ This project is licensed under the MIT License — see the LICENSE file for full
 Made by G0ku1-0
 Reach me at: gokulas924@gmail.com
 
-'''
+```
