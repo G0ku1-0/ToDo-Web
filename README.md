@@ -48,6 +48,5 @@ This project is licensed under the MIT License — see the LICENSE file for full
 
 🖋️ Author
 Made by G0ku1-0
-Reach me at: gokulas924@gmail.com
 
 ```
